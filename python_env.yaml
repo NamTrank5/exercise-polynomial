@@ -6,5 +6,4 @@ dependencies:
   - scipy
   - scikit-learn>0.23
   - numpy>1.19
-  - mlflow
   - matplotlib>3
