@@ -1,0 +1,10 @@
+# Dependencies required to build packages. This field is optional.
+build_dependencies:
+  - pip
+# Dependencies required to run the project.
+dependencies:
+  - scipy
+  - scikit-learn>0.23
+  - numpy>1.19
+  - mlflow
+  - matplotlib>3
